@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Portfolio"
+title:  "CV"
 date:   2024-04-20 08:51:28 -0700
-categories: portfolio jekyll
+categories: CV jekyll
 ---
 
-## SUMMARY OF ACHIEVEMENTS
+## Summary of Achievements
 
 ● A Patented SW for Big Data and Machine Learning: LTE PIM catcher - Patent# 10009784 - Link: https://patents.justia.com/assignee/yupana-inc
 ● Developed several real-time tools/automation for the Ericsson Amos/Python languages to cut down on diagnostic and action times, as well as the need for additional field re-visits, manlift rental days, and other associated costs. Twenty+ field teams save over $100,000+ annually.
