@@ -5,9 +5,9 @@
 }
 
 .site-title {
-  font-size: 24px;
-  font-weight: bold;
-  color: #ffffff
+  font-size: 28px; /* Updated font size */
+  font-weight: 600; /* Lighter font weight */
+  color: #ffffff;
 }
 
 .site-nav {
@@ -34,8 +34,8 @@
 }
 
 .footer-heading {
-  font-size: 18px;
-  font-weight: bold;
+  font-size: 22px; /* Updated font size */
+  font-weight: 600; /* Lighter font weight */
 }
 
 .footer-col-wrapper {
