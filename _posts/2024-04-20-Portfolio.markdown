@@ -7,4 +7,4 @@ categories: Portfolio jekyll
 
 ## XXX
 
-![Page](_images/_page1.png "Linux tool for analyzing WiFi performance on end-user devices I")
+![Page](../_images/_page1.png)
