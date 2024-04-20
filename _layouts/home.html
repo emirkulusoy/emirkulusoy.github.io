@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {% for post in site.posts %}
+          <article class="post">
+            <h2><a href="{{ post.url }}">{{ post.title }}</h2>
+            <div>{{ post.content | truncatewords: 22 }}</div>
+            <p><a href="{{ post.url }}">Read more</a></p>
+          </article>
+        {% endfor %}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <!-- Include main.css -->
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+
+    <!-- Include script.js -->
+    <script src="{{ "/assets/js/script.js" | relative_url }}"></script>
+  </body>
+
+</html>

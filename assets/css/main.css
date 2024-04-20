@@ -66,5 +66,6 @@
 /* General styles */
 .wrapper {
   width: 80%; /* Width of content wrapper */
+  max-width: 1000px; /* Adjust the maximum width as needed */
   margin: 0 auto; /* Center content horizontally */
 }
