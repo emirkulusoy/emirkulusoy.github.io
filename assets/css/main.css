@@ -1,0 +1,70 @@
+/* Header */
+.site-header {
+  background-color: #9fc5e8; /* Dark blue background */
+  color: #ffffff; /* White text */
+}
+
+.site-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff
+}
+
+.site-nav {
+  float: right;
+}
+
+.site-nav ul {
+  list-style-type: none;
+}
+
+.site-nav ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.site-nav ul li a {
+  color: #ffffff; /* White text for navigation links */
+}
+
+/* Footer */
+.site-footer {
+  background-color: #9fc5e8;  /* Blue background */
+  color: #ffffff; /* White text */
+}
+
+.footer-heading {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.footer-col-wrapper {
+  display: flex;
+}
+
+.footer-col {
+  flex: 1;
+}
+
+.contact-list,
+.social-media-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.contact-list li,
+.social-media-list li {
+  margin-bottom: 10px;
+}
+
+.contact-list a,
+.social-media-list a {
+  color: #0b5394; /* White text for links */
+  font-weight: bold;
+}
+
+/* General styles */
+.wrapper {
+  width: 80%; /* Width of content wrapper */
+  margin: 0 auto; /* Center content horizontally */
+}

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Portfolio
+js:
+  - assets/js/script.js
 ---
 
 <div id="image-container">
@@ -21,5 +23,3 @@ title: Portfolio
   <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page15.png" alt="K8s Google Cloud Trials ">
   <!-- Add more images as needed -->
 </div>
-
-<script src="portfolio.js" type="text/javascript"></script>
