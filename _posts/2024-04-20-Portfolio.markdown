@@ -22,4 +22,4 @@ title: Portfolio
   <!-- Add more images as needed -->
 </div>
 
-<script src="https://emirkulusoy.github.io/posts/portfolio.js"></script>
+<script src="https://emirkulusoy.github.io/_posts/portfolio.js"></script>
