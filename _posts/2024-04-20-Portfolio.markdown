@@ -7,4 +7,4 @@ categories: Portfolio jekyll
 
 ## XXX
 
-![Page](../_images/_page1.png)
+![Page](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_images/_page1.png)
