@@ -22,4 +22,4 @@ title: Portfolio
   <!-- Add more images as needed -->
 </div>
 
-<script src="portfolio.js"></script>
+<script src="portfolio.js" type="text/javascript"></script>
