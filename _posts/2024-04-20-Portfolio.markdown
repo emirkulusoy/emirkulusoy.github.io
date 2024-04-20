@@ -42,3 +42,6 @@ categories: CV jekyll
 ● Trained about Kubernetes troubleshooting, CNI (container network interface), YAML files, ETCD, configuration, scheduler, storage kinds, control plane, ingress & egress, secret, PV, PVC, kube-proxy, kubectl, etc.
 
 ● Excellent communication abilities. Strong documentation skills.
+
+## Technical Skills/Key Words:
+Python, Tableau, Power Bi, RPA, UiPath, SQLite, MySQL, Jenkins, CI/CD, GCP, AWS, C++, VB, JavaScript, JSON, XML, GitLab, GitHub, GIT, Snowflake, Bigquery, SQL, PostgreSQL, Django, Linux, Kubernetes, Powershell, SAP Business Object, Atlassian, Jira, Slack, Teams, MS Dynamics 365, Docker, Zoom, MapInfo, Matlab, PLC, MS Power Platform, Spreadsheets, Bash Scripting, Azure, QA, Excel, iBwave, PyQGIS, PCBA schematic, Raspberry Pi/GPIO, Wireshark, GlobalMapper, Debugging, IoT, iPerf, Discord, QGIS, GIS
