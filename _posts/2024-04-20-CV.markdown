@@ -7,7 +7,7 @@ categories: CV jekyll
 
 ## Summary of Achievements
 
-● A Patented SW for Big Data and Machine Learning: LTE PIM catcher - Patent# 10009784 - Link: https://patents.justia.com/assignee/yupana-inc  
+● A Patented SW for Big Data and Machine Learning: LTE PIM catcher - Patent# 10009784 Link: https://patents.justia.com/assignee/yupana-inc  
 ● Developed several real-time tools/automation for the Ericsson Amos/Python languages to cut down on diagnostic and action times, as well as the need for additional field re-visits, manlift rental days, and other associated costs. Twenty+ field teams save over $100,000+ annually.  
 ● Developed an indoor(point 2 point) and outdoor(GPS) 5G/LTE/WiFi test tool for the iPerf(TCP/UDP) & FTP testing on linux platform. Per license, this tool saved $15,000. Through an SSH connection, 5G/LTE data (serving cell, quality, signal level, band, etc.) is gathered over the Cradlepoint R1900 Modem(CPE). Throughput is collected via curl (FTP) / iperf (TCP/UCP). nmcli and iwconfig are used to obtain WiFi information.  
 ● By creating an indoor and outdoor map report solution on the commercial free GIS/PyQGIS platform, license costs were reduced by $5,000 per user. qchainage, mmqgis modules are utilized.  
@@ -15,18 +15,33 @@ categories: CV jekyll
 
 ## Skills
 
-● Experienced in using Machine Learning & Data Science Python libraries, including numPy, TensorFlow, Keras, sklearn, pandas, BeautifulSoup, matplotlib, seaborn, django, and statsmodels, openpyxl, csv, docx, pillow, xml.  
-● Good knowledge of statistics, machine learning, and probability theory.  
-● Experienced with data validation, data visualization, data stores & structures, ETL, UAT, ITIL, API testing, MySQL, PostgreSQL, SQLite, SQL Server. Familiar with Snowflake, BigQuery. Experience with Cloud data platform.  
-● Strong knowledge of using Agile and Scrum approaches to conduct tests for Test Driven Development (TDD) and the Software Development Life Cycle (SDLC). CI/CD experience with Jenkins.
-● Fluent about data structures; Binary Search, Hash Table, Sliding Window & Optimized Sliding Window, Two Pointers, Linked List, Stack, Deque, Tree, Binary Search Tree, Binary exponentiation, etc.
+● Experienced in using Machine Learning & Data Science Python libraries, including numPy, TensorFlow, Keras, Scikit-learn, Pandas, PySpark, BeautifulSoup, Matplotlib, seaborn, django, statsmodels, openpyxl, csv, docx, pillow, xml.  
+● Employed sophisticated SQL and ETL techniques in complex database structures, data lakes, data warehouses, and SAP BI reporting tools to evaluate data, resolve inconsistencies, and ensure data integrity.  
+● Created UiPath several scripts to automate test scenarios at RPA (Robotic Process Automation) projects.  
+● Strong knowledge of using Agile and Scrum approaches to conduct tests for Test Driven Development (TDD) and the Software Development Life Cycle (SDLC). CI/CD experience with Jenkins.   
 ● Advance reporting skills on Business Object, Microsoft Power BI, Tableau, and Excel.  
-● Developed SSH/VPN solutions with subprocess, paramiko libraries and simple Django applications at Python.  
-● Proficiency in Software Testing: creating strategies/scenarios, gathering information, creating/distributing results.  
-● Developed web-based solutions to save engineering costs by connecting Google Forms and the Google Apps script platform (JavaScript) to generate reports, charts, and calculations that are sent automatically via email.  
-● Certified Kubernetes Administrator (CKA) through Udemy course and exam.  
+● Carried out assessments in the data management and analytics domains: Test Planning, Test Automation, Data Testing, Analytics Validation, Performance Testing, Integration Testing, Regression Testing, Reporting and Documentation.  
+● Expertise in about time series analysis, including forecasting, smoothing, cyclical, seasonal, and stationarity analyses.  
+● Monitored and documented the connections between issue reports, test setups, business needs, and technological requirements.  
+● Executed e2e project coordinating(organizing, running, and taking part in daily meetings to inform all project stakeholders.).  
+● Experienced with data cleaning, preprocessing, validation, visualization, data stores & structures, ETL, MySQL, PostgreSQL, SQLite, SQL Server, Snowflake, BigQuery, Cloud data platform.   
+● Proficiency in Software Testing: creating strategies/scenarios, gathering information, API testing, User Acceptance Testing (UAT), creating/distributing results.  
+● Hands-on experience with hardware configuration, evaluate/test, post-processing, initial analysis, test result validation and report creation for cellular (WiFi/Bluetooth/LTE/5G NR/CBRS/GPS) NWs OTA (over-the-air, on the field) and RF box (at the laboratory) testing methods for RAN equipment, Apple/Android phones, modems, etc.  
 ● Trained about Kubernetes troubleshooting, CNI (container network interface), YAML files, ETCD, configuration, scheduler, storage kinds, control plane, ingress & egress, secret, PV, PVC, kube-proxy, kubectl, etc.  
-● Excellent communication abilities. Strong documentation skills.  
+● Developed web-based solutions to save engineering costs by connecting Google Forms and the Google Apps script platform (JavaScript) to generate reports, charts, and calculations that are sent automatically via email.  
+● Minimizing word/excel/presentation reporting duration by automatic report templates for several 3rd party tools.  
+● Developed SSH/VPN solutions with subprocess, paramiko libraries and simple Django applications at Python.  
+● Certified Kubernetes Administrator (CKA) through Udemy course and exam.  
+● Fluent about data structures; Binary Search, Hash Table, Sliding Window & Optimized Sliding Window, Two Pointers, Linked List, Stack, Deque, Tree, Binary Search Tree, Binary exponentiation, etc.  
+● Excellent communication abilities and documentation skills.  
+● Good knowledge of statistical analysis, machine learning, and probability theory.  
+● Examine, record, and evaluate client demands to make sure the procedure satisfies them.  
+● Skilled in solution consulting, sales engineering, and technical sales.  
+● Support the sales team by locating and securing revenue opportunities, composing RFI/RFQ/RFP responses, and offering technical guidance all along the sales process.  
+● Preparation and analysis of schematics. Practical knowledge in soldering components.  
+● Created and organized Open RAN NW system testing using standardized lab equipment. Practical expertise of RF test tools (such as a site master, VNA, power meter, OTDR and spectrum analyzer).  
+
+
 
 ## Technical Skills/Key Words:
-Python, Tableau, Power Bi, RPA, UiPath, SQLite, MySQL, Jenkins, CI/CD, GCP, AWS, C++, VB, JavaScript, JSON, XML, GitLab, GitHub, GIT, Snowflake, Bigquery, SQL, PostgreSQL, Django, Linux, Kubernetes, Powershell, SAP Business Object, Atlassian, Jira, Slack, Teams, MS Dynamics 365, Docker, Zoom, MapInfo, Matlab, PLC, MS Power Platform, Spreadsheets, Bash Scripting, Azure, QA, Excel, iBwave, PyQGIS, PCBA schematic, Raspberry Pi/GPIO, Wireshark, GlobalMapper, Debugging, IoT, iPerf, Discord, QGIS, GIS
+Python, Tableau, Power Bi, RPA, UiPath, SQLite, MySQL, Jenkins, CI/CD, GCP, AWS, C++, VB, JavaScript, JSON, XML, GitLab, GitHub, GIT, Snowflake, Bigquery, SQL, PostgreSQL, Django, Linux, Kubernetes, Powershell, SAP Business Object, Atlassian, Jira, Slack, Teams, Dynamics 365, Docker, Zoom, MapInfo, Matlab, PLC, MS Power Platform, Spreadsheets, bash script, Scripting, QA, Excel, iBwave, PyQGIS, PCBA schema, Jupyter Notebook, Wireshark, GlobalMapper, Debugging, IoT, iPerf, Discord, QGIS, GIS, AT&T KPI tools, Raspberry Pi, GPIO, Troubleshooting, TEMS Invest., OTA testing, 5G, VoNR, Open RAN, Atoll, L2/L3 Messages, T-Mobile KPI tools, Failure Analysis, XCAP Accuver, NW design, Log analysis, Ericsson ENM, Ericsson Moshel
