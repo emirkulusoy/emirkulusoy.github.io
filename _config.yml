@@ -30,6 +30,7 @@ github_username:  emirkulusoy #jekyll
 
 # Build settings
 theme: minima
+show_excerpts: false
 plugins:
   - jekyll-feed
 
