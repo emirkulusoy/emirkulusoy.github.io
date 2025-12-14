@@ -1,47 +1,112 @@
 ---
 layout: post
 title:  "CV"
-date:   2024-04-20 08:51:28 -0700
-categories: CV jekyll
+date:   2024-04-20 21:08:00 -0700
+categories: jekyll update
 ---
 
-## Summary of Achievements
+# EMIR K ULUSOY
 
-● A Patented SW for Big Data and Machine Learning: LTE PIM catcher - Patent# 10009784 Link: https://patents.justia.com/assignee/yupana-inc  
-● Developed several real-time tools/automation for the Ericsson Amos/Python languages to cut down on diagnostic and action times, as well as the need for additional field re-visits, manlift rental days, and other associated costs. Twenty+ field teams save over $100,000+ annually.  
-● Developed an indoor(point 2 point) and outdoor(GPS) 5G/LTE/WiFi test tool for the iPerf(TCP/UDP) & FTP testing on linux platform. Per license, this tool saved $15,000. Through an SSH connection, 5G/LTE data (serving cell, quality, signal level, band, etc.) is gathered over the Cradlepoint R1900 Modem(CPE). Throughput is collected via curl (FTP) / iperf (TCP/UCP). nmcli and iwconfig are used to obtain WiFi information.  
-● By creating an indoor and outdoor map report solution on the commercial free GIS/PyQGIS platform, license costs were reduced by $5,000 per user. qchainage, mmqgis modules are utilized.  
-● To cut down on the amount of time needed for text/xml file comparisons, many parsers have been built using Python regex. By these tools, the engineers were able to increase their productivity in day-to-day jobs by ~5-10%.  
+### Staff Engineer
 
-## Skills
+[emir.kursad.ulusoy@gmail.com](mailto:emir.kursad.ulusoy@gmail.com) | (925) 247-4797 | Denver, CO | [linkedin.com/in/emir-kursad-ek-ulusoy-09113b26](http://linkedin.com/in/emir-kursad-ek-ulusoy-09113b26)
 
-● Experienced in using Machine Learning & Data Science Python libraries, including numPy, TensorFlow, Keras, Scikit-learn, Pandas, PySpark, BeautifulSoup, Matplotlib, seaborn, django, statsmodels, openpyxl, csv, docx, pillow, xml.  
-● Employed sophisticated SQL and ETL techniques in complex database structures, data lakes, data warehouses, and SAP BI reporting tools to evaluate data, resolve inconsistencies, and ensure data integrity.  
-● Created UiPath several scripts to automate test scenarios at RPA (Robotic Process Automation) projects.  
-● Strong knowledge of using Agile and Scrum approaches to conduct tests for Test Driven Development (TDD) and the Software Development Life Cycle (SDLC). CI/CD experience with Jenkins.   
-● Advance reporting skills on Business Object, Microsoft Power BI, Tableau, and Excel.  
-● Carried out assessments in the data management and analytics domains: Test Planning, Test Automation, Data Testing, Analytics Validation, Performance Testing, Integration Testing, Regression Testing, Reporting and Documentation.  
-● Expertise in about time series analysis, including forecasting, smoothing, cyclical, seasonal, and stationarity analyses.  
-● Monitored and documented the connections between issue reports, test setups, business needs, and technological requirements.  
-● Executed e2e project coordinating(organizing, running, and taking part in daily meetings to inform all project stakeholders.).  
-● Experienced with data cleaning, preprocessing, validation, visualization, data stores & structures, ETL, MySQL, PostgreSQL, SQLite, SQL Server, Snowflake, BigQuery, Cloud data platform.   
-● Proficiency in Software Testing: creating strategies/scenarios, gathering information, API testing, User Acceptance Testing (UAT), creating/distributing results.  
-● Hands-on experience with hardware configuration, evaluate/test, post-processing, initial analysis, test result validation and report creation for cellular (WiFi/Bluetooth/LTE/5G NR/CBRS/GPS) NWs OTA (over-the-air, on the field) and RF box (at the laboratory) testing methods for RAN equipment, Apple/Android phones, modems, etc.  
-● Trained about Kubernetes troubleshooting, CNI (container network interface), YAML files, ETCD, configuration, scheduler, storage kinds, control plane, ingress & egress, secret, PV, PVC, kube-proxy, kubectl, etc.  
-● Developed web-based solutions to save engineering costs by connecting Google Forms and the Google Apps script platform (JavaScript) to generate reports, charts, and calculations that are sent automatically via email.  
-● Minimizing word/excel/presentation reporting duration by automatic report templates for several 3rd party tools.  
-● Developed SSH/VPN solutions with subprocess, paramiko libraries and simple Django applications at Python.  
-● Certified Kubernetes Administrator (CKA) through Udemy course and exam.  
-● Fluent about data structures; Binary Search, Hash Table, Sliding Window & Optimized Sliding Window, Two Pointers, Linked List, Stack, Deque, Tree, Binary Search Tree, Binary exponentiation, etc.  
-● Excellent communication abilities and documentation skills.  
-● Good knowledge of statistical analysis, machine learning, and probability theory.  
-● Examine, record, and evaluate client demands to make sure the procedure satisfies them.  
-● Skilled in solution consulting, sales engineering, and technical sales.  
-● Support the sales team by locating and securing revenue opportunities, composing RFI/RFQ/RFP responses, and offering technical guidance all along the sales process.  
-● Preparation and analysis of schematics. Practical knowledge in soldering components.  
-● Created and organized Open RAN NW system testing using standardized lab equipment. Practical expertise of RF test tools (such as a site master, VNA, power meter, OTDR and spectrum analyzer).  
+## PROFESSIONAL SUMMARY
 
+- **17+** years of experience as a network engineer specializing in RF wireless technologies and telecommunications (**4G/LTE, 5G/NR, WiFi, CBRS**) for lab and field testing in indoor/outdoor networks.
 
+- Orchestrated cross-functional teams of **30+ engineers** across hardware, software, and testing to resolve critical RF performance bottlenecks, improving major KPIs by 40% and reducing customer complaints.
 
-## Technical Skills/Key Words:
-Python, Tableau, Power Bi, RPA, UiPath, SQLite, MySQL, Jenkins, CI/CD, GCP, AWS, C++, VB, JavaScript, JSON, XML, GitLab, GitHub, GIT, Snowflake, Bigquery, SQL, PostgreSQL, Django, Linux, Kubernetes, Powershell, SAP Business Object, Atlassian, Jira, Slack, Teams, Dynamics 365, Docker, Zoom, MapInfo, Matlab, PLC, MS Power Platform, Spreadsheets, bash script, Scripting, QA, Excel, iBwave, PyQGIS, PCBA schema, Jupyter Notebook, Wireshark, GlobalMapper, Debugging, IoT, iPerf, Discord, QGIS, GIS, AT&T KPI tools, Raspberry Pi, GPIO, Troubleshooting, TEMS Invest., OTA testing, 5G, VoNR, Open RAN, Atoll, L2/L3 Messages, T-Mobile KPI tools, Failure Analysis, XCAP Accuver, NW design, Log analysis, Ericsson ENM, Ericsson Moshel
+- Patented software for Big Data and ML: Developed LTE PIM Catcher ([**Patent**](https://patents.justia.com/assignee/yupana-inc) #10009784).
+
+- Drove operational efficiency by redesigning capacity breach thresholds through data-informed decision-making, increasing profit margins by 10%. Reduced unnecessary CapEx and optimized resource allocation, delivering measurable business value across multi-million-dollar network investments.
+
+- Led development of real-time **Python**/JavaScript automation tools, mentoring junior engineers on implementation. Managed a cross-functional initiative that streamlined diagnostics for **20+ field teams**, reducing field revisits and costs by **$100K annually**.
+
+- Engineered a Linux-based 5G/LTE/WiFi test tool (iPerf/FTP) for indoor (P2P) and outdoor (GPS) testing, saving **$15K per license**. Collected metrics via SSH (Cradlepoint R1900) and throughput via curl/iperf (TCP-UDP). WiFi data parsed via nmcli/iwconfig.
+
+- Developed a cost-effective QGIS/PyQGIS mapping solution (indoor/outdoor reports), cutting license costs by **$5K/user** by qchainage/mmqgis modules.
+
+- Built Python regex parsers to accelerate file comparisons, boosting engineer productivity by 5–10% in daily tasks.
+
+- Developed a Python-based solution to convert Planet coverage prediction TIFF files into polygons, enabling free QGIS-based geo-filtering and analysis. Eliminated dependency on paid licenses, saving the company **$5K/user** in software costs.
+
+## PROFESSIONAL EXPERIENCE
+
+### Dish Network, Littleton, CO
+
+#### Staff RF Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 2024 – Current
+
+- Produced 100+ executive reports and presented findings quarterly to 4+ C-level executives, informing strategic initiatives worth $500M+.
+
+- Optimized big data and GIS processing through transformative coding techniques in SQL/Python, achieving 10-100x performance improvements.
+
+- Formulated 5G user-level capacity models incorporating distance, throughput (up to 1 Gbps), and accessibility KPIs; successfully validated across multi-vendor scenarios, improving network planning accuracy by 50%.
+
+- Developed Python automation for 5G cell footprint analysis across 40+ markets; processed 24,000+ sites for layer management, overshoot detection, and coverage optimization.
+
+- Created Python-based 5G planning tools that forecasted traffic patterns and capacity limits across 300,000+ cells.
+
+- Maximized revenue generation by transforming 5G network optimization into quantifiable business impact. Managed budget allocation by modeling incremental revenue against deployment costs, achieving 1.5:1 ROI through fact-based cost optimization strategies.
+
+- Leveraged scalable GIS methodologies and petabyte-scale data fusion (5G traffic, signal quality, subscriber mobility) to calculate net profit impact, guiding high-ROI investment decisions while reducing investment analysis time by 80%.
+
+### KCCTech, Walnut Creek, CA
+
+#### RF Subject Matter Expert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2017 – Apr 2024
+
+- Hands-on testing and validation of cellular networks (5G NR/4G LTE/WiFi/Bluetooth/CBRS/GPS) via OTA field testing and lab RF box methods for 40+ RAN equipment, Apple and Android devices, modems, CPEs, and AR/VR hardware.
+
+- Collaborated with multidisciplinary teams to debug HW/SW/framework issues across L1 (PHY), L2 (MAC/RLC/PDCP), and L3 (RRC/NAS) protocol layers for 40+ devices. Facilitated knowledge sharing between engineering teams. Coordinated with vendors to certify compliant UEs through effective communication and partnership.
+
+- Led a cross-functional team of 12 engineers in 5G/NR testing and FCC/carrier approvals for Dish/Boost, covering debugging, analysis, and reporting.
+
+- Diagnosed and resolved RF and protocol stack anomalies. Improved low throughput, handover/access failures, call drops, short battery life, device overheating, and MIMO/antenna performance for 30+ UEs using QCAT, QXDMA, Wireshark, XCAL/XCAP, and TEMS. Validated fixes through iterative lab testing and field trials.
+
+- Scripted 5G/4G Open RAN testing with lab tools: VNA (VSWR/S-parameters), VSA (EVM/IQ), oscilloscopes (jitter), and spectrum analyzers (interference analysis via SignalHound HW) across 15+ test scenarios.
+
+- WiFi 802.11a/b/g/n/ac/ax testing, including channel clarity validation across 20+ deployment scenarios.
+
+- Built strong client relationships with 8+ major clients by advising on 5G/4G/WiFi testing methodologies. Served as technical liaison between internal teams and clients, facilitating consensus on technical solutions.
+
+- Advanced reporting in Power BI, Tableau, Excel, and Business Objects with 100% data accuracy.
+
+- End-to-end data testing with a 95% ETL validation success rate, analytics, performance/integration/regression testing, and documentation.
+
+- 5G NR/VoNR/ViNR/VoLTE/LTE/CSFB testing and analysis by XCAL and XCAP, Nemo, TEMS Investigation and Discovery, QXDMA, and Wireshark tools during 250+ site, carrier, cluster, and FCC approval processes.
+
+### Yupana Inc, Walnut Creek, CA
+
+#### Senior RF Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 2014 – Nov 2017
+
+- Streamlined workflows for MS Office, SAP Business Objects, and drive test tools (TEMS Discovery, Genex Assistant, and Nemo); reduced data processing time by 70%.
+
+- Calculated 1,000+ LTE link budgets for target cell-edge throughput under UL/DL noise rise conditions with Atoll.
+
+- Computed 12+ complex KPIs for social media apps (Facebook, Twitter, Instagram) and CSFB performance via Nemo Analyze.
+
+### Plano, Astana, KZ
+
+#### RF Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 2009 – Aug 2014
+
+- Conducted 75+ network benchmarks, including parameter trials and feature activations; delivered comprehensive results through customer reports.
+
+- Performed radio network design by Atoll and resolved 300+ issues related to coverage, overshoot, and interference.
+
+## EDUCATION
+
+- Kocaeli University, Turkey : Bachelor of Science in Electronics Engineering (BSEE Degree) GPA: 3.47/4.0
+
+- Kocaeli University, Turkey : Master's Degree in Electronics and Computer Education (in progress)
+
+## TECHNICAL SKILLS
+
+- **Programming and Development:** Python, SQL, JavaScript, Linux, IBM WatsonX AI agents, Bash Scripting.
+
+- **Database and Data Management:** Snowflake, AWS Athena, AWS Redshift.
+
+- **Data Analysis and Visualization:** Tableau, Power BI, PyQGIS, QGIS, SAP Business Objects, Spreadsheets, GIS, Mapinfo.
+
+- **Networking and Telecommunications:** Test Case Automation, Network Design, Actix, AT&T and T-Mobile KPI tools, Atoll, Debugging logs, Ericsson ENM/OSS, Trace, Failure/Log Analysis, iBwave, IoT, iPerf, IT/IP Network, Moshell, Nemo Analyzer, Open RAN, OTA testing, QXDMA, RF troubleshooting, Samsung/Mavenir NW, TEMS Investigation, VoLTE/VoNR Analysis, Wireshark, XCAL Accuver, XCAP Accuver.
+
+- **Hardware and Embedded Systems:** Antenna testing, GPIO, I2C, Oscilloscope, PCB schematics, Raspberry Pi, RF box testing, Site Master, Soldering, VNA, VSA, Spectrum Analyzer, LabVIEW.

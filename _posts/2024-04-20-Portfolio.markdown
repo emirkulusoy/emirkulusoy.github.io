@@ -1,38 +1,85 @@
 ---
 layout: post
-title: Portfolio
-js:
-  - assets/js/script.js
+title:  "Portfolio"
+date:   2024-04-20 21:08:00 -0700
+categories: jekyll update
 ---
 
-<div id="image-container">
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page1.png" alt="Linux tool for analyzing WiFi performance on end-user devices I">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page2.png" alt="Linux tool for analyzing WiFi performance on end-user devices II">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page3.png" alt="Utilizing GPS to obtain position data for an outdoor tests">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page4.png" alt="Linux tool for 5G/LTE performance via Cradlepoint R1900 Modem">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page5.png" alt="Image Classification by TensorFlow/Keras CNN Model - I">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page6.png" alt="Image Classification by TensorFlow/Keras CNN Model - II">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page7.png" alt="Data Scraping from eCommerce/Amazon Using BeautifulSoup - I">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page8.png" alt="Data Scraping from eCommerce/Amazon Using BeautifulSoup - II">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page9.png" alt="Data Scraping from eCommerce/Amazon Using BeautifulSoup - III">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page10.png" alt="Data Visualization via matplotlib, seaborn, pandas libraries">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page11.png" alt="Web-based reporting tool over Google Apps Script platform">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page12.png" alt="Example Ericsson Kget file parser via Python">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page13.png" alt="Scripting on Ericsson Amos language">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page14.png" alt="Raspberry Pi and Testing Applications">
-  <br> <br>
-  <img class="image" src="https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page15.png" alt="K8s Google Cloud Trials ">
-</div>
+![Summary - Professional Achievements](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page1.png)
+  
+   
+![Summary - Key Accomplishments and Cost Savings](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page2.png)
+  
+   
+![Big Data and Machine Learning Patent](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page3.png)
+  
+   
+![Big Data-Driven Multi-Million Dollar CapEx Optimization I - Demand Side Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page4.png)
+  
+   
+![Big Data-Driven Multi-Million Dollar CapEx Optimization II - Supply Side Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page5.png)
+  
+   
+![Linux Tool for Analyzing WiFi Performance on End-User Devices I](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page6.png)
+  
+   
+[![Linux Tool for Analyzing WiFi Performance on End-User Devices II](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page7.png)](https://github.com/emirkulusoy/WiFiScan)
+[GitHub: WiFiScan](https://github.com/emirkulusoy/WiFiScan) 
+  
+   
+![External Interference Testing](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page8.png)
+  
+   
+![Linux Tool for 5G/LTE Performance via Cradlepoint R1900 Modem](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page9.png)
+  
+   
+![100x Big Geo Data Efficiency Gain](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page10.png)
+  
+   
+[![Planet Coverage TIFF File to GeoPackage Converter](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page11.png)](https://github.com/emirkulusoy/TIFF2GeoPackageConverter)
+[GitHub: TIFF2GeoPackageConverter](https://github.com/emirkulusoy/TIFF2GeoPackageConverter)
+  
+   
+[![Web-Based Reporting Tool over Google Apps Script Platform](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page12.png)](https://github.com/emirkulusoy/AutoReportScriptGoogle)
+[GitHub: AutoReportScriptGoogle](https://github.com/emirkulusoy/AutoReportScriptGoogle)
+  
+   
+![Raspberry Pi and Testing Applications](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page13.png)
+  
+   
+![RF Design - Private Networks and DAS Solutions](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page14.png)
+  
+   
+![Link Budget & TPUT Calculations I - Excel Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page15.png)
+  
+   
+![Link Budget & TPUT Calculations II - Tableau Visualization](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page16.png)
+  
+   
+![KPI Report - Microsoft Power BI Dashboard](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page17.png)
+  
+   
+![Parameter Audit - Network Configuration Management](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page18.png)
+  
+   
+![Cluster Testing - Network Validation and Performance](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page19.png)
+  
+   
+![Network Optimization & Acceptance Tests](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page20.png)
+  
+   
+[![Example Ericsson Kget File Parser via Python](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page21.png)](https://github.com/emirkulusoy/EricssonKgetParser)
+[GitHub: EricssonKgetParser](https://github.com/emirkulusoy/EricssonKgetParser)
+  
+   
+[![Scripting on Ericsson Amos Language](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page22.png)](https://github.com/emirkulusoy/EricssonKPI)
+[GitHub: EricssonKPI](https://github.com/emirkulusoy/EricssonKPI)
+  
+   
+![Site Walk - Field Survey and Documentation](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page23.png)
+  
+   
+![Field CX Inspection/COP - Construction Quality Verification](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page24.png)
+  
+   
+![Thank You](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page25.png)
