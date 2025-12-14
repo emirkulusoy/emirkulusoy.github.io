@@ -12,11 +12,11 @@ categories: jekyll update
   
    
 ![Big Data and Machine Learning Patent](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page3.png)
-  
+
+<!--more-->   
    
 [![Big Data-Driven Multi-Million Dollar CapEx Optimization I - Demand Side Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page4.png)](https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_5g-rfengineering-bigdata-activity-7395616714115248129-dLFj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVb6a0BEmU5jo5qfkf29OD4xuiVeVdZmVk)
-
-<!--more-->  
+ 
    
 [![Big Data-Driven Multi-Million Dollar CapEx Optimization II - Supply Side Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page5.png)](https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_5g-rfengineering-bigdata-activity-7395616714115248129-dLFj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVb6a0BEmU5jo5qfkf29OD4xuiVeVdZmVk)
   
