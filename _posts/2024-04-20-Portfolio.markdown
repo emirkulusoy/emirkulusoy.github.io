@@ -5,47 +5,41 @@ date:   2024-04-21 21:08:00 -0700
 categories: jekyll update
 ---
 
-[![Summary - Professional Achievements](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page1.png)](https://www.linkedin.com/in/emir-kursad-ulusoy/)
+[![Summary - Professional Achievements](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page1.png)](https://www.linkedin.com/in/emir-kursad-ek-ulusoy-09113b26/)
   
    
-[![Summary - Key Accomplishments and Cost Savings](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page2.png)](https://patents.google.com/patent/US10009784B2)
+[![Summary - Key Accomplishments and Cost Savings](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page2.png)](https://patents.justia.com/assignee/yupana-inc)
   
    
 ![Big Data and Machine Learning Patent](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page3.png)
   
    
-[![Big Data-Driven Multi-Million Dollar CapEx Optimization I - Demand Side Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page4.png)](https://www.linkedin.com/posts/emir-kursad-ulusoy_5g-nr-data-driven-capacity-planning-activity-7157842434108051456-8Nau)
+[![Big Data-Driven Multi-Million Dollar CapEx Optimization I - Demand Side Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page4.png)](https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_5g-rfengineering-bigdata-activity-7395616714115248129-dLFj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVb6a0BEmU5jo5qfkf29OD4xuiVeVdZmVk)
   
    
-[![Big Data-Driven Multi-Million Dollar CapEx Optimization II - Supply Side Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page5.png)](https://www.linkedin.com/posts/emir-kursad-ulusoy_5g-nr-data-driven-capacity-planning-activity-7157842434108051456-8Nau)
+[![Big Data-Driven Multi-Million Dollar CapEx Optimization II - Supply Side Analysis](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page5.png)](https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_5g-rfengineering-bigdata-activity-7395616714115248129-dLFj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVb6a0BEmU5jo5qfkf29OD4xuiVeVdZmVk)
   
    
 ![Linux Tool for Analyzing WiFi Performance on End-User Devices I](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page6.png)
   
    
 [![Linux Tool for Analyzing WiFi Performance on End-User Devices II](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page7.png)](https://github.com/emirkulusoy/WiFiScan)
-
-[GitHub: WiFiScan](https://github.com/emirkulusoy/WiFiScan) | [GitHub: IndoorReporting](https://github.com/emirkulusoy/IndoorReporting)
   
    
-[![External Interference Testing](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page8.png)](https://www.linkedin.com/posts/emir-kursad-ulusoy_spectrum-analyzer-low-cost-activity-7154919983816110081-kdl5)
+[![External Interference Testing](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page8.png)](https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_bb60d-spectrumanalyzer-sweepspeeds-activity-7393028997279834112-xF0t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVb6a0BEmU5jo5qfkf29OD4xuiVeVdZmVk)
   
    
 ![Linux Tool for 5G/LTE Performance via Cradlepoint R1900 Modem](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page9.png)
   
    
-[![100x Big Geo Data Efficiency Gain](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page10.png)](https://www.linkedin.com/posts/emir-kursad-ulusoy_geospatial-data-optimization-activity-7266863501433294849-CmBc)
+[![100x Big Geo Data Efficiency Gain](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page10.png)](https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_bigdata-dataengineering-5g-activity-7403259717256421376-_90z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVb6a0BEmU5jo5qfkf29OD4xuiVeVdZmVk)
   
    
 [![Planet Coverage TIFF File to GeoPackage Converter](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page11.png)](https://github.com/emirkulusoy/TIFF2GeoPackageConverter)
-
-[GitHub: TIFF2GeoPackageConverter](https://github.com/emirkulusoy/TIFF2GeoPackageConverter)
   
    
 [![Web-Based Reporting Tool over Google Apps Script Platform](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page12.png)](https://github.com/emirkulusoy/AutoReportScriptGoogle)
 
-[GitHub: AutoReportScriptGoogle](https://github.com/emirkulusoy/AutoReportScriptGoogle)
-  
    
 ![Raspberry Pi and Testing Applications](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page13.png)
   
@@ -72,14 +66,10 @@ categories: jekyll update
   
    
 [![Example Ericsson Kget File Parser via Python](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page21.png)](https://github.com/emirkulusoy/EricssonKgetParser)
-
-[GitHub: EricssonKgetParser](https://github.com/emirkulusoy/EricssonKgetParser)
   
    
 [![Scripting on Ericsson Amos Language](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page22.png)](https://github.com/emirkulusoy/EricssonKPI)
-
-[GitHub: EricssonKPI](https://github.com/emirkulusoy/EricssonKPI)
-  
+ 
    
 ![Site Walk - Field Survey and Documentation](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page23.png)
   
@@ -87,4 +77,4 @@ categories: jekyll update
 ![Field CX Inspection/COP - Construction Quality Verification](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page24.png)
   
    
-[![Thank You](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page25.png)](https://www.linkedin.com/in/emir-kursad-ulusoy/)
+[![Thank You](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page25.png)](https://www.linkedin.com/in/emir-kursad-ek-ulusoy-09113b26/)
