@@ -8,7 +8,7 @@ categories: jekyll update
 ![Summary - Professional Achievements](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page1.png)
   
    
-[![Summary - Key Accomplishments and Cost Savings](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page2.png)](https://patents.justia.com/assignee/yupana-inc)
+![Summary - Key Accomplishments and Cost Savings](https://raw.githubusercontent.com/emirkulusoy/emirkulusoy.github.io/main/_posts/_images/_page2.png)
 <!--more-->
   
    
