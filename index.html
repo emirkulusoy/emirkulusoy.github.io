@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Emir K Ulusoy · RF, RAN and telecom AI engineer</title>
+<meta name="description" content="Staff RF and RAN engineer with 18 years in wireless: 5G NR capacity, network optimization, open-source RF tools and AI systems for telecom.">
+<meta property="og:title" content="Emir K Ulusoy · RF, RAN and telecom AI engineer">
+<meta property="og:description" content="18 years in wireless. Capacity, optimization, open-source RF tools and AI systems for telecom.">
+<meta property="og:image" content="https://emirkulusoy.github.io/assets/img/capacity-demand.jpg">
+<meta property="og:url" content="https://emirkulusoy.github.io/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..800&display=swap" rel="stylesheet">
+<style>
+
+:root{
+  --panel:#E4E9E6; --paper:#F4F6F3; --ink:#14212A; --muted:#51606A; --line:#C3CCC7;
+  --screen:#0D2830; --grid:#1E4450; --trace:#F2AB3A; --trace-dim:#7FA9B3; --link:#1A5680; --focus:#D9822B;
+  --wide:"wdth" 118; --narrow:"wdth" 88;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --panel:#101A1F; --paper:#16232A; --ink:#E3EAE6; --muted:#98A7AE; --line:#2A3B43;
+  --screen:#08191F; --grid:#18363F; --link:#8DC2E8;
+}}
+:root[data-theme="dark"]{ --panel:#101A1F; --paper:#16232A; --ink:#E3EAE6; --muted:#98A7AE; --line:#2A3B43; --screen:#08191F; --grid:#18363F; --link:#8DC2E8; }
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 1rem);-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--panel);color:var(--ink);font:400 1.0625rem/1.55 Archivo,"Helvetica Neue",Arial,sans-serif;font-variation-settings:"wdth" 100;font-variant-numeric:tabular-nums}
+img{max-width:100%;display:block}
+a{color:var(--link);text-underline-offset:.18em;text-decoration-thickness:1px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--focus);outline-offset:3px;border-radius:2px}
+.wrap{max-width:74rem;margin:0 auto;padding:0 clamp(1.1rem,4vw,2.5rem)}
+.skip{position:absolute;left:-999px}.skip:focus{left:1rem;top:1rem;background:var(--paper);padding:.5rem .8rem;z-index:9}
+
+
+:root{--accent:#8A4F00;--matte:#36474F}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--accent:#F2AB3A}}
+:root[data-theme="dark"]{--accent:#F2AB3A}
+
+/* header */
+.hero{padding:clamp(2.6rem,7vw,5rem) 0 0}
+.hero h1{margin:0;font-weight:560;font-variation-settings:"wdth" 125;font-size:clamp(2.5rem,7vw,5.2rem);line-height:.98;letter-spacing:-.01em}
+.hero .role{margin:.8rem 0 0;color:var(--muted);font-size:1.1rem}
+.hero .lede{max-width:40rem;margin:1.3rem 0 0;font-size:clamp(1.12rem,1.6vw,1.28rem);line-height:1.5}
+.contact{display:flex;flex-wrap:wrap;gap:.6rem 1.8rem;margin:1.6rem 0 0;padding:1rem 0 0;border-top:1px solid var(--line);font-size:1.05rem;font-weight:520}
+.contact a{color:var(--accent)}
+
+/* sections */
+section{padding:clamp(3.5rem,8vw,5.5rem) 0 0}
+h2{font-weight:600;font-variation-settings:"wdth" 118;font-size:clamp(1.7rem,3.4vw,2.4rem);line-height:1.1;margin:0 0 .6rem}
+.intro{max-width:40rem;color:var(--muted);margin:0 0 clamp(2rem,4vw,3rem)}
+
+/* work: one row per LinkedIn post */
+.items{display:flex;flex-direction:column;gap:clamp(2.6rem,6vw,4.5rem)}
+.item{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:clamp(1.4rem,4vw,3.2rem);align-items:center}
+.item.flip{grid-template-columns:minmax(0,5fr) minmax(0,7fr)}
+.item.flip .matte{order:2}
+.matte{background:var(--matte);border-radius:10px;padding:clamp(.6rem,1.4vw,1rem);aspect-ratio:16/10;display:grid;grid-template-rows:minmax(0,1fr);gap:clamp(.4rem,1vw,.7rem);min-width:0}
+.matte.two{aspect-ratio:auto;grid-template-rows:auto auto}
+.matte.two .shot{height:auto}
+.shot{display:flex;align-items:center;justify-content:center;min-height:0;width:100%;height:100%;padding:0;border:0;background:transparent;cursor:zoom-in;border-radius:4px}
+.shot img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;border-radius:3px}
+.topic{margin:0 0 .35rem;color:var(--muted);font-size:.95rem}
+.item h3{font-weight:620;font-variation-settings:"wdth" 108;font-size:clamp(1.3rem,2.2vw,1.6rem);line-height:1.22;margin:0 0 .7rem}
+.item p{margin:0;max-width:36rem}
+.links{display:flex;flex-wrap:wrap;gap:.45rem 1.2rem;margin-top:1rem !important;font-weight:520;font-size:.97rem}
+.links .read{color:var(--accent)}
+
+/* tools */
+.tools{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.2rem 2rem;border-top:1.5px solid var(--ink);padding-top:1.3rem}
+.tools h3{margin:0 0 .35rem;font-size:1.1rem;font-weight:620;font-variation-settings:"wdth" 108}
+.tools p{margin:0;color:var(--muted)}
+
+/* patent */
+.patent{display:grid;grid-template-columns:auto 1fr;gap:1.2rem 2.4rem;align-items:start;background:var(--paper);border-left:4px solid var(--accent);border-radius:10px;padding:clamp(1.4rem,4vw,2.4rem)}
+.patent .no{margin:0;font-variation-settings:"wdth" 125;font-weight:600;font-size:clamp(1.8rem,4.4vw,3rem);line-height:1;white-space:nowrap}
+.patent .no small{display:block;font-size:.95rem;font-weight:400;font-variation-settings:"wdth" 100;color:var(--muted);margin-top:.5rem}
+.patent h2{font-size:1.4rem}
+.patent p{margin:0 0 .8rem;max-width:38rem}
+
+/* experience */
+.jobs{list-style:none;margin:0;padding:0;border-top:1.5px solid var(--ink)}
+.jobs li{display:grid;grid-template-columns:7.5rem minmax(0,1fr);gap:1.4rem;padding:1.3rem 0;border-bottom:1px solid var(--line)}
+.yrs{margin:0;font-variation-settings:"wdth" 118;font-weight:600;display:flex;flex-direction:column;line-height:1.2}
+.yrs span+span{color:var(--muted);font-weight:400}
+.jobs h3{margin:0;font-size:1.2rem;font-weight:620;font-variation-settings:"wdth" 108}
+.jobs .role{color:var(--muted);margin:.1rem 0 .45rem}
+.jobs p{margin:0;max-width:44rem}
+.edu{margin:1.4rem 0 0;color:var(--muted);max-width:44rem}
+
+footer{margin-top:clamp(3.5rem,8vw,5rem);padding:1.6rem 0 2.4rem;border-top:1px solid var(--line);color:var(--muted);font-size:.92rem}
+footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.6rem 1.5rem}
+
+/* lightbox */
+dialog{border:0;padding:0;background:transparent;max-width:min(96vw,1400px);max-height:92vh}
+dialog::backdrop{background:#081418e6}
+dialog img{max-height:86vh;width:auto;margin:0 auto;border-radius:6px}
+dialog button{position:absolute;top:.4rem;right:.4rem;font:inherit;background:#F4F6F3;color:#14212A;border:0;border-radius:99px;padding:.35rem .8rem;cursor:pointer}
+
+@media (max-width:820px){
+  .item{grid-template-columns:minmax(0,1fr)}
+  .item.flip{grid-template-columns:minmax(0,1fr)}.item.flip .matte{order:0}
+  .tools{grid-template-columns:minmax(0,1fr)}
+  .patent{grid-template-columns:minmax(0,1fr)}
+  .jobs li{grid-template-columns:minmax(0,1fr);gap:.4rem}
+  .yrs{flex-direction:row;gap:.4rem}.yrs span+span::before{content:"to ";}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#work">Skip to work</a>
+<div class="wrap">
+  <header class="hero">
+    <h1>Emir K Ulusoy</h1>
+    <p class="role">Staff RF and RAN engineer, Denver. Authorized to work in the US without sponsorship.</p>
+    <p class="lede">Eighteen years in wireless, across 5G NR, LTE, Wi-Fi and CBRS. I trace network problems back to their cause, in the field and in the data, and I build the tools and AI systems that make that work faster. Open to capacity, RAN engineering and telecom AI roles.</p>
+    <p class="contact">
+      <a href="mailto:emir.kursad.ulusoy@gmail.com">emir.kursad.ulusoy@gmail.com</a>
+      <a href="https://www.linkedin.com/in/emir-kursad-ek-ulusoy-09113b26/" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/emirkulusoy" rel="noopener">GitHub</a>
+      <a href="assets/Emir_Ulusoy_CV.pdf">CV (PDF)</a>
+      <a href="assets/Emir_Ulusoy_Portfolio.pdf">Full portfolio (PDF)</a>
+    </p>
+  </header>
+
+  <main>
+  <section id="work" aria-labelledby="work-h">
+    <h2 id="work-h">Work, and how it was done</h2>
+    <p class="intro">Each piece below has a LinkedIn post that walks through the method step by step. Select a figure to enlarge it.</p>
+    <div class="items">
+<article class="item"><div class="matte two"><button class="shot" type="button" data-full="assets/img/capacity-demand.jpg" aria-label="Enlarge figure: Heatmap of RRC users against timing advance and user throughput"><img src="assets/img/capacity-demand.jpg" alt="Heatmap of RRC users against timing advance and user throughput" loading="lazy" decoding="async"></button><button class="shot" type="button" data-full="assets/img/capacity-supply.jpg" aria-label="Enlarge figure: Heatmap of RRC users against PRB utilization and PDCCH blocking"><img src="assets/img/capacity-supply.jpg" alt="Heatmap of RRC users against PRB utilization and PDCCH blocking" loading="lazy" decoding="async"></button></div><div class="txt"><p class="topic">Capacity and data</p><h3>Demand and supply: where a cell really runs out of capacity</h3><p>Two heatmaps read together. On the demand side, RRC users, timing advance and user throughput show coverage pulling in as load rises, because more throughput needs more PRBs and that lifts the noise floor. On the supply side, PDCCH blocking climbs with user count while PRBs still have headroom, so the scheduler sets the ceiling before the spectrum does.</p><p class="links"><a class="read" href="https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_5g-rfengineering-bigdata-activity-7395616714115248129-dLFj" rel="noopener">Read the post on LinkedIn</a></p></div></article>
+<article class="item flip"><div class="matte"><button class="shot" type="button" data-full="assets/img/capacity-breakpoint.jpg" aria-label="Enlarge figure: Binned sample counts for a 5 MHz and a 15 MHz cell showing where throughput drops"><img src="assets/img/capacity-breakpoint.jpg" alt="Binned sample counts for a 5 MHz and a 15 MHz cell showing where throughput drops" loading="lazy" decoding="async"></button></div><div class="txt"><p class="topic">Capacity and data</p><h3>Where user throughput breaks, by carrier width</h3><p>Three months of ROP-level data from two cells on the same band. The 5 MHz carrier drops below 1 Mbps at roughly 16 to 34 RRC users; the 15 MHz carrier holds 4 Mbps until about 48 to 66. Each bin is a sample count, so the break point comes straight from measured data rather than a model.</p><p class="links"><a class="read" href="https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_5g-ran-rfengineering-share-7491717614931648515-3Ibq/" rel="noopener">Read the post on LinkedIn</a></p></div></article>
+<article class="item"><div class="matte"><button class="shot" type="button" data-full="assets/img/geo-grid.jpg" aria-label="Enlarge figure: Before and after: scattered geolocation points versus a regular degree-based grid"><img src="assets/img/geo-grid.jpg" alt="Before and after: scattered geolocation points versus a regular degree-based grid" loading="lazy" decoding="async"></button></div><div class="txt"><p class="topic">Capacity and data</p><h3>Keeping only the precision GPS can resolve</h3><p>5G geolocation was stored to about 0.1 m against a GPS accuracy of 5 to 10 m. Re-aggregating on a degree-based grid in AWS Redshift took storage from 180 GB a day to about 2 GB, and the analysis window from three weeks to two years, around 500M samples, small enough to run on a laptop.</p><p class="links"><a class="read" href="https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_bigdata-dataengineering-5g-activity-7403259717256421376-_90z" rel="noopener">Read the post on LinkedIn</a></p></div></article>
+<article class="item flip"><div class="matte"><button class="shot" type="button" data-full="assets/img/llm-3gpp.jpg" aria-label="Enlarge figure: Terminal output of a local model working through the TS 38.306 max data rate formula"><img src="assets/img/llm-3gpp.jpg" alt="Terminal output of a local model working through the TS 38.306 max data rate formula" loading="lazy" decoding="async"></button></div><div class="txt"><p class="topic">AI</p><h3>Three local LLMs, one 3GPP question with a checkable answer</h3><p>Supported max data rate under TS 38.306 for 4x4 MIMO, MCS 28, 19 RBs. One of three models returned 60.94 Mbps, matching my own implementation. The others did the arithmetic fine but recalled the wrong code rate for that MCS. A first check rather than a controlled comparison.</p><p class="links"><a class="read" href="https://www.linkedin.com/feed/update/urn:li:activity:7502479400546775040/" rel="noopener">Read the post on LinkedIn</a><a href="https://github.com/emirkulusoy/otel-2.0-31b-apple-silicon" rel="noopener">GitHub</a></p></div></article>
+<article class="item"><div class="matte"><button class="shot" type="button" data-full="assets/img/wifi-toolkit.jpg" aria-label="Enlarge figure: Indoor floor plan with a Wi-Fi signal heat map generated in QGIS"><img src="assets/img/wifi-toolkit.jpg" alt="Indoor floor plan with a Wi-Fi signal heat map generated in QGIS" loading="lazy" decoding="async"></button></div><div class="txt"><p class="topic">Open-source tool</p><h3>A Wi-Fi survey toolkit on Linux</h3><p>Signal and quality from nmcli, throughput from curl and iperf3, merged in Python and mapped in QGIS. Used on more than ten indoor deployments in place of a commercial tool at about $5K per engineer.</p><p class="links"><a class="read" href="https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_rfengineering-wirelessnetworks-wifi-activity-7390465113532792832-JMtX" rel="noopener">Read the post on LinkedIn</a><a href="https://github.com/emirkulusoy/WiFiScan" rel="noopener">Data collection on GitHub</a><a href="https://github.com/emirkulusoy/IndoorReporting" rel="noopener">Heat map reporting on GitHub</a></p></div></article>
+<article class="item flip"><div class="matte"><button class="shot" type="button" data-full="assets/img/tiff-gpkg.jpg" aria-label="Enlarge figure: Coverage prediction polygons at 10 m and 100 m resolution"><img src="assets/img/tiff-gpkg.jpg" alt="Coverage prediction polygons at 10 m and 100 m resolution" loading="lazy" decoding="async"></button></div><div class="txt"><p class="topic">Open-source tool</p><h3>Planet coverage TIFFs to GeoPackage polygons</h3><p>Turns coverage prediction rasters into polygons so geo-filtering runs free in QGIS. Removed about $2K per user in licensing, put several departments on the same prediction workflow, and runs roughly five times faster at national scale.</p><p class="links"><a class="read" href="https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_rfengineering-costoptimization-opensource-activity-7405700124745715712-XtKs" rel="noopener">Read the post on LinkedIn</a><a href="https://github.com/emirkulusoy/TIFF2GeoPackageConverter" rel="noopener">GitHub</a></p></div></article>
+<article class="item"><div class="matte"><button class="shot" type="button" data-full="assets/img/interference.jpg" aria-label="Enlarge figure: Drive route colored by interference level, with a frequency plot showing peaks at 668.5 and 682.5 MHz"><img src="assets/img/interference.jpg" alt="Drive route colored by interference level, with a frequency plot showing peaks at 668.5 and 682.5 MHz" loading="lazy" decoding="async"></button></div><div class="txt"><p class="topic">RF and lab</p><h3>Spectrum analysis for an interference hunt</h3><p>Mapping-capable analyzers with GPS run into the tens of thousands. A compact setup built for under $6K produced the level map and the frequency plot that placed an external interferer at 668.5 and 682.5 MHz.</p><p class="links"><a class="read" href="https://www.linkedin.com/posts/emir-kursad-ek-ulusoy-09113b26_bb60d-spectrumanalyzer-sweepspeeds-activity-7393028997279834112-xF0t" rel="noopener">Read the post on LinkedIn</a></p></div></article>
+    </div>
+  </section>
+
+  <section aria-labelledby="tools-h">
+    <h2 id="tools-h">More tools on GitHub</h2>
+    <ul class="tools">
+<li><h3><a href="https://github.com/emirkulusoy/EricssonKPI" rel="noopener">Custom KPIs in Ericsson AMOS</a></h3><p>Scripted AMOS and Moshell pulls for custom KPIs straight from the node.</p></li>
+<li><h3><a href="https://github.com/emirkulusoy/EricssonKgetParser" rel="noopener">Ericsson KGET parser</a></h3><p>Flattens KGET exports into an MO, parameter and value table for bulk diffing against a golden configuration.</p></li>
+<li><h3><a href="https://github.com/emirkulusoy/AutoReportScriptGoogle" rel="noopener">Reports with Google Apps Script</a></h3><p>A web form request pulls KPI data, draws the charts and returns a formatted report, with nothing installed locally.</p></li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="pat-h">
+    <div class="patent">
+      <p class="no">US 10,009,784<small>Granted patent</small></p>
+      <div>
+        <h2 id="pat-h">LTE PIM catcher</h2>
+        <p>A big data and machine learning method for detecting passive intermodulation from network data instead of a site visit. Built at Yupana.</p>
+        <p><a href="https://patents.justia.com/patent/10009784" rel="noopener">Read the patent</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="experience" aria-labelledby="exp-h">
+    <h2 id="exp-h">Experience</h2>
+    <ol class="jobs" reversed>
+<li><p class="yrs"><span>2024</span><span>now</span></p><div><h3>DISH Network</h3><p class="role">Staff Engineer, Wireless, Littleton, CO</p><p>Capacity planning for a national Open RAN network of about 300,000 cells, the Python and SQL behind it, and multi-agent AI orchestration for the company platform.</p></div></li>
+<li><p class="yrs"><span>2017</span><span>2024</span></p><div><h3>KCCTech</h3><p class="role">R&amp;D Director, RF Subject Matter Expert, Walnut Creek, CA</p><p>Led 12 engineers through 5G NR FCC and carrier approvals across 250+ sites and clusters. Device and RAN testing, protocol analysis, Open RAN lab work. Director from 2021.</p></div></li>
+<li><p class="yrs"><span>2014</span><span>2017</span></p><div><h3>Yupana</h3><p class="role">Senior RF Engineer, Walnut Creek, CA</p><p>Built the LTE PIM catcher, granted as a US patent. LTE optimization for venues and events, parameter audits against carrier baselines.</p></div></li>
+<li><p class="yrs"><span>2009</span><span>2014</span></p><div><h3>Plano Engineering</h3><p class="role">RF Engineer, Astana and Baku</p><p>Ericsson, Nokia and ZTE programs, including a nationwide frequency re-design and a Nokia to ZTE swap.</p></div></li>
+<li><p class="yrs"><span>2008</span><span>2009</span></p><div><h3>Egis</h3><p class="role">RF Engineer, Ankara</p><p>RF device R&amp;D and compliance research. Designed and built a 3G repeater.</p></div></li>
+    </ol>
+    <p class="edu">BS, Electronics Teaching Education, Kocaeli University, top of the department. US evaluation: equivalent to a BS in Electronics Engineering.</p>
+  </section>
+  </main>
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>Emir K Ulusoy, <a href="mailto:emir.kursad.ulusoy@gmail.com">emir.kursad.ulusoy@gmail.com</a></span>
+    <span>Figures are from sanitized project material. Site and network identifiers have been removed.</span>
+  </div>
+</footer>
+
+<dialog id="lb" aria-label="Enlarged figure"><button type="button" id="lb-close">Close</button><img alt=""></dialog>
+
+<script>
+(function(){
+  var dlg=document.getElementById('lb'),im=dlg.querySelector('img');
+  document.querySelectorAll('.shot').forEach(function(b){b.addEventListener('click',function(){
+    im.src=b.dataset.full;im.alt=b.querySelector('img').alt;
+    if(dlg.showModal)dlg.showModal();else window.open(b.dataset.full)})});
+  document.getElementById('lb-close').addEventListener('click',function(){dlg.close()});
+  dlg.addEventListener('click',function(e){if(e.target===dlg)dlg.close()});
+})();
+</script>
+</body>
+</html>
